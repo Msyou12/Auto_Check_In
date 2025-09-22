@@ -32,7 +32,7 @@ import sys
 import requests
 
 # 测试用环境变量
-# os.environ['COOKIE_QUARK'] = ''
+# os.environ['COOKIE_QUARK'] = 'https://github.com/Msyou12/zyqinglong'
 
 try:  # 异常捕捉
     from utils.notify import send  # 导入消息通知模块
